@@ -1,9 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com /matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent .com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
-
-
-
-
-###playlist pessoal, não me responsabilizo por possíveis fraudes###
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://is.gd/V9ChnQ" group-title="🧮AULA" dia  001
 https://is.gd/Asjgmo
