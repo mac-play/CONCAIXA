@@ -4,8 +4,7 @@
 http://saturno.bucarestshop.online:2095/live3/bbbcam3/chunks.m3u8?token=1737944846_a3243361550a1ba012c278b23d2cc24d3e0655f8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kKXj5eJGJnmdT8JD6" group-title="🌀", CAM 002
-http://saturno.bucarestshop.online:2095/live3/bbbcam2/chunks.m3u8?token=1737944846_a3243361550a1ba012c278b23d2cc24d3e0655f8
-
+http://saturno.bucarestshop.online:2095/live3/bbbcam1/chunks.m3u8?token=1737944846_825cc4ed03b132c4433255300a1c8a578a21d8ae
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kKXj5eJGJnmdT8JD6" group-title="🌀", mosaico
-http://saturno.bucarestshop.online:2095/live3/bbbcam5/chunks.m3u8?token=1737944846_a3243361550a1ba012c278b23d2cc24d3e0655f8
+http://saturno.bucarestshop.online:2095/live3/bbbcam3/chunks.m3u8?token=1737944846_a3243361550a1ba012c278b23d2cc24d3e0655f8
