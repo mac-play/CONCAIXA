@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://images.app.goo.gl/kKXj5eJGJnmdT8JD6" group-title="🌀", CAM 001
-http://saturno.bucarestshop.online:2095/live3/bbbcam1/chunks.m3u8?token=1738175241_3c07defb0338f3af108709f9461a7219f7ba1dfd
+http://saturno.bucarestshop.online:2095/live3/bbbcam1/chunks.m3u8?token=1738547744_c5aa7adeac7ae891da82bf90d27e5d18bea5ff17
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kKXj5eJGJnmdT8JD6" group-title="🌀", CAM 002
 http://saturno.bucarestshop.online:2095/live3/bbbcam1/chunks.m3u8?token=1738175241_3c07defb0338f3af108709f9461a7219f7ba1dfd
 
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kKXj5eJGJnmdT8JD6" group-title="🌀", mosaico
-http://saturno.bucarestshop.online:2095/live3/bbbcam1/chunks.m3u8?token=1738461889_13ddbfef10f176e48e469c54434f6a143c9ae531
+http://saturno.bucarestshop.online:2095/live3/bbbcam3/chunks.m3u8?token=1738547744_c9279c5cb1b8006e5228b41bebfda3287d13b2c0
